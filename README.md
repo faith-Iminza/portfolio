@@ -22,4 +22,4 @@ Date:
 Was created on 7th July 2019
 
 License :
-It has been lincenced under the term and condtions of MIT license.
+It has been lincenced under the term and condtions of MIT license.Check details in https://en.wikipedia.org/wiki/Open_Source_Initiative
